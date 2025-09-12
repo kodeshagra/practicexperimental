@@ -1,0 +1,8 @@
+# Example commit messages
+
+- feat: add user login page
+- fix: correct typo in README
+- docs: update usage instructions
+- chore: initial commit
+
+Trying to learn good commit practices!
